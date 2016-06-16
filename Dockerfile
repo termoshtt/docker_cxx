@@ -6,6 +6,7 @@ RUN apt-get update && apt-get -y install \
   libprotobuf-dev \
   libyaml-cpp-dev \
   protobuf-compiler \
+  git \
   g++ \
   cmake \
   ctags \
